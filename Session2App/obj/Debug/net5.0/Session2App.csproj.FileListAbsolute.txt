@@ -1,0 +1,16 @@
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.exe
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.deps.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.runtimeconfig.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.runtimeconfig.dev.json
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\ref\Session2App.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\bin\Debug\net5.0\Session2App.pdb
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.csprojAssemblyReference.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.AssemblyInfoInputs.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.AssemblyInfo.cs
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.csproj.CoreCompileInputs.cache
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\ref\Session2App.dll
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.pdb
+C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\DOP@E repo\session2app\obj\Debug\net5.0\Session2App.genruntimeconfig.cache
