@@ -19,7 +19,7 @@ namespace Session2App
 
             bool isLoggedIn = false; // boolean Data type.
 
-            Console.WriteLine(Fullname);
+            Console.WriteLine(Fullname);// dev.frinno@gmail.com-sess2ans
 
         }
     }
