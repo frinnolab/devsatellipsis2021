@@ -18,7 +18,7 @@ namespace Session2App
             float _amount = 250.5f; //float data type.
 
             bool isLoggedIn = false; // boolean Data type.
-
+            
             Console.WriteLine(Fullname);// dev.frinno@gmail.com-sess2ans
 
         }
