@@ -68,6 +68,7 @@ namespace Session3App
             #endregion
 
             #region Iterators
+
             #region  for loop
             // for (int i = 0; i < ages.Length; i++)
             // {
@@ -80,6 +81,18 @@ namespace Session3App
             // }
 
             //
+            #endregion
+
+            #region Foreach
+            // foreach (var age in ages)
+            // {
+            //     if (age<18)
+            //     {
+            //         Console.WriteLine("You are not elgible for a driving license");
+            //     }else{
+            //         Console.WriteLine("You are elgible to vote!");
+            //     }
+            // }
             #endregion
             #endregion
            // Console.WriteLine(balance[0]);
