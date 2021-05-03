@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\DOP@E repo\\session2app\\Session2App.csproj": {}
+    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\SESS2\\session2app\\Session2App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\DOP@E repo\\session2app\\Session2App.csproj": {
+    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\SESS2\\session2app\\Session2App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\DOP@E repo\\session2app\\Session2App.csproj",
+        "projectUniqueName": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\SESS2\\session2app\\Session2App.csproj",
         "projectName": "Session2App",
-        "projectPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\DOP@E repo\\session2app\\Session2App.csproj",
+        "projectPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\SESS2\\session2app\\Session2App.csproj",
         "packagesPath": "C:\\Users\\FrinnoLAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\DOP@E repo\\session2app\\obj\\",
+        "outputPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\SESS2\\session2app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FrinnoLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
