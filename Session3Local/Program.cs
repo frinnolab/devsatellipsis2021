@@ -21,17 +21,25 @@ namespace Session3Local
            prices[2] =152.8f;
            prices[3]=93.9f;
 
+              var johnBal  = 150.0;
+
            for (int i = 0 , j=0; i < menus.Length && j<prices.Length; i++,j++)
            {
                Console.WriteLine("Food : " + menus[i] + "    Price : " + prices[j]);
 
-                 if(prices[j]<=150.00) {
+           }
 
-                Console.WriteLine("John can afford the food");
-                } 
-                 else{
-                    Console.WriteLine("John can not afford the food");
-                }  
+                
+           for (int i = 0; i <prices.Length; i++)
+             {
+                if (prices[i]<=johnBal)
+             {
+               Console.WriteLine("John Can afford " + menus[i]);
+            }else
+           {
+              Console.WriteLine("John can't afford " + menus[i]);
+            }
+}  
 
                 
            }
@@ -39,4 +47,4 @@ namespace Session3Local
 
         }
     }
-}
+
