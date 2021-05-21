@@ -1,0 +1,16 @@
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local.deps.json
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local.runtimeconfig.json
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local.runtimeconfig.dev.json
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local.dll
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/ref/sess4Local.dll
+/home/sophia/devsatellipsis2021/sess4Local/bin/Debug/net5.0/sess4Local.pdb
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.csprojAssemblyReference.cache
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.GeneratedMSBuildEditorConfig.editorconfig
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.AssemblyInfoInputs.cache
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.AssemblyInfo.cs
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.csproj.CoreCompileInputs.cache
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.dll
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/ref/sess4Local.dll
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.pdb
+/home/sophia/devsatellipsis2021/sess4Local/obj/Debug/net5.0/sess4Local.genruntimeconfig.cache
