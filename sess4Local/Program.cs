@@ -19,11 +19,11 @@ namespace sess4Local
             planets[2]="Jupiter";
             planets[3]="Neptune";
 
-            long [] age = new long[4];
-            age[0]=19414149L;
-            age[1]=59354032L;
-            age[2]=374355659L;
-            age[3]=5200418560L;
+            float [] age = new float[4];
+            age[0]=0.61519726F;
+            age[1]=1.8808158F;
+            age[2]=11.862615F;
+            age[3]=164.79132F;
 
     float earth_in_space_age = traveler_time/earth_time;
 
