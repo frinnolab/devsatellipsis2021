@@ -27,11 +27,19 @@ namespace sess4Local
 
     float earth_in_space_age = traveler_time/earth_time;
 
-    for (int i = 0 , j=0; i < planets.Length && j< age.Length; i++,j++)
+   // for (int i = 0 , j=0; i < planets.Length && j< age.Length; i++,j++)
+    
+    //float traveler_years = earth_in_space_age/age[j];
+    //Console.WriteLine(planets[i] + " age is : " + traveler_years + " Earth-years old ");
+     //}
+     
+    for (int j=0; j< age.Length; j++)
     {
     float traveler_years = earth_in_space_age/age[j];
-    Console.WriteLine(planets[i] + " age is : " + traveler_years + " Earth-years old ");
+    Console.WriteLine(planets[j] + " age is : " + traveler_years + " Earth-years old ");
      }
+    
+ }
     }
  }
-}
+
